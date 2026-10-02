@@ -1,0 +1,634 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|c:\\users\\my laptop\\source\\repos\\gatherly-application\\secondcontactsession\\myonlinecv\\myonlinecv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|solutionrelative:myonlinecv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|c:\\users\\my laptop\\source\\repos\\gatherly-application\\secondcontactsession\\myonlinecv\\myonlinecv\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|solutionrelative:myonlinecv\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|c:\\users\\my laptop\\source\\repos\\gatherly-application\\secondcontactsession\\myonlinecv\\myonlinecv\\controller\\galleryapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|solutionrelative:myonlinecv\\controller\\galleryapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|c:\\users\\my laptop\\source\\repos\\gatherly-application\\secondcontactsession\\myonlinecv\\myonlinecv\\models\\imageuploadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|solutionrelative:myonlinecv\\models\\imageuploadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|c:\\users\\my laptop\\source\\repos\\gatherly-application\\secondcontactsession\\myonlinecv\\myonlinecv\\controller\\cvapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|solutionrelative:myonlinecv\\controller\\cvapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|c:\\users\\my laptop\\source\\repos\\gatherly-application\\secondcontactsession\\myonlinecv\\myonlinecv\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|solutionrelative:myonlinecv\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Migrations\\20261002165631_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyOnlineCv\\Migrations\\20261002165631_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|c:\\users\\my laptop\\source\\repos\\gatherly-application\\secondcontactsession\\myonlinecv\\myonlinecv\\models\\educationitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|solutionrelative:myonlinecv\\models\\educationitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|c:\\users\\my laptop\\source\\repos\\gatherly-application\\secondcontactsession\\myonlinecv\\myonlinecv\\models\\taxcalculationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|solutionrelative:myonlinecv\\models\\taxcalculationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|c:\\users\\my laptop\\source\\repos\\gatherly-application\\secondcontactsession\\myonlinecv\\myonlinecv\\models\\taxcalculationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|solutionrelative:myonlinecv\\models\\taxcalculationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|c:\\users\\my laptop\\source\\repos\\gatherly-application\\secondcontactsession\\myonlinecv\\myonlinecv\\models\\galleryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|solutionrelative:myonlinecv\\models\\galleryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|c:\\users\\my laptop\\source\\repos\\gatherly-application\\secondcontactsession\\myonlinecv\\myonlinecv\\models\\skillitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|solutionrelative:myonlinecv\\models\\skillitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|c:\\users\\my laptop\\source\\repos\\gatherly-application\\secondcontactsession\\myonlinecv\\myonlinecv\\models\\experienceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|solutionrelative:myonlinecv\\models\\experienceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|c:\\users\\my laptop\\source\\repos\\gatherly-application\\secondcontactsession\\myonlinecv\\myonlinecv\\pages\\gallery.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|solutionrelative:myonlinecv\\pages\\gallery.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|c:\\users\\my laptop\\source\\repos\\gatherly-application\\secondcontactsession\\myonlinecv\\myonlinecv\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|solutionrelative:myonlinecv\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|c:\\users\\my laptop\\source\\repos\\gatherly-application\\secondcontactsession\\myonlinecv\\myonlinecv\\pages\\gallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|solutionrelative:myonlinecv\\pages\\gallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|c:\\users\\my laptop\\source\\repos\\gatherly-application\\secondcontactsession\\myonlinecv\\myonlinecv\\pages\\taxcalculator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|solutionrelative:myonlinecv\\pages\\taxcalculator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|c:\\users\\my laptop\\source\\repos\\gatherly-application\\secondcontactsession\\myonlinecv\\myonlinecv\\pages\\taxcalculator.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|solutionrelative:myonlinecv\\pages\\taxcalculator.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\obj\\Release\\net8.0\\MyOnlineCv.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyOnlineCv\\obj\\Release\\net8.0\\MyOnlineCv.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\obj\\Debug\\net8.0\\MyOnlineCv.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyOnlineCv\\obj\\Debug\\net8.0\\MyOnlineCv.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\backend\\FlexiData.Domain\\FlexiData.WebApi\\obj\\Debug\\net10.0\\FlexiData.WebApi.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\backend\\FlexiData.Domain\\FlexiData.Domain\\obj\\Debug\\net10.0\\FlexiData.Domain.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\backend\\FlexiData.Domain\\FlexiData.Domain\\obj\\Debug\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\backend\\FlexiData.Domain\\FlexiData.Domain\\Entities\\Transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\backend\\FlexiData.Domain\\FlexiData.Domain\\Entities\\SubscriptionPlan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\backend\\FlexiData.Domain\\FlexiData.Domain\\Entities\\ProviderGateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\obj\\Release\\net8.0\\MyOnlineCv.RazorAssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyOnlineCv\\obj\\Release\\net8.0\\MyOnlineCv.RazorAssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|c:\\users\\my laptop\\source\\repos\\gatherly-application\\secondcontactsession\\myonlinecv\\myonlinecv\\pages\\education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|solutionrelative:myonlinecv\\pages\\education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|c:\\users\\my laptop\\source\\repos\\gatherly-application\\secondcontactsession\\myonlinecv\\myonlinecv\\pages\\experience.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|solutionrelative:myonlinecv\\pages\\experience.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|c:\\users\\my laptop\\source\\repos\\gatherly-application\\secondcontactsession\\myonlinecv\\myonlinecv\\pages\\experience.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|solutionrelative:myonlinecv\\pages\\experience.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|c:\\users\\my laptop\\source\\repos\\gatherly-application\\secondcontactsession\\myonlinecv\\myonlinecv\\pages\\education.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|solutionrelative:myonlinecv\\pages\\education.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|c:\\users\\my laptop\\source\\repos\\gatherly-application\\secondcontactsession\\myonlinecv\\myonlinecv\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|solutionrelative:myonlinecv\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|c:\\users\\my laptop\\source\\repos\\gatherly-application\\secondcontactsession\\myonlinecv\\myonlinecv\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|solutionrelative:myonlinecv\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|c:\\users\\my laptop\\source\\repos\\gatherly-application\\secondcontactsession\\myonlinecv\\myonlinecv\\pages\\skills.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|solutionrelative:myonlinecv\\pages\\skills.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|c:\\users\\my laptop\\source\\repos\\gatherly-application\\secondcontactsession\\myonlinecv\\myonlinecv\\pages\\indexmodel.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|solutionrelative:myonlinecv\\pages\\indexmodel.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|c:\\users\\my laptop\\source\\repos\\gatherly-application\\secondcontactsession\\myonlinecv\\myonlinecv\\pages\\skills.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B1A16E-2463-10D7-832C-B796382658E0}|MyOnlineCv\\MyOnlineCv.csproj|solutionrelative:myonlinecv\\pages\\skills.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CvApiController.cs",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Controller\\CvApiController.cs",
+              "RelativeDocumentMoniker": "MyOnlineCv\\Controller\\CvApiController.cs",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Controller\\CvApiController.cs",
+              "RelativeToolTip": "MyOnlineCv\\Controller\\CvApiController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T16:16:15.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Program.cs",
+              "RelativeDocumentMoniker": "MyOnlineCv\\Program.cs",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Program.cs",
+              "RelativeToolTip": "MyOnlineCv\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAqwEAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T09:10:39.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\appsettings.json",
+              "RelativeDocumentMoniker": "MyOnlineCv\\appsettings.json",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\appsettings.json",
+              "RelativeToolTip": "MyOnlineCv\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-02T16:46:43.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20261002165631_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Migrations\\20261002165631_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MyOnlineCv\\Migrations\\20261002165631_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Migrations\\20261002165631_InitialCreate.cs",
+              "RelativeToolTip": "MyOnlineCv\\Migrations\\20261002165631_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T16:56:31.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GalleryApiController.cs",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Controller\\GalleryApiController.cs",
+              "RelativeDocumentMoniker": "MyOnlineCv\\Controller\\GalleryApiController.cs",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Controller\\GalleryApiController.cs",
+              "RelativeToolTip": "MyOnlineCv\\Controller\\GalleryApiController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T16:17:49.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MyOnlineCv\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MyOnlineCv\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T16:30:43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImageUploadRequest.cs",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Models\\ImageUploadRequest.cs",
+              "RelativeDocumentMoniker": "MyOnlineCv\\Models\\ImageUploadRequest.cs",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Models\\ImageUploadRequest.cs",
+              "RelativeToolTip": "MyOnlineCv\\Models\\ImageUploadRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T17:08:10.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaxCalculationResult.cs",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Models\\TaxCalculationResult.cs",
+              "RelativeDocumentMoniker": "MyOnlineCv\\Models\\TaxCalculationResult.cs",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Models\\TaxCalculationResult.cs",
+              "RelativeToolTip": "MyOnlineCv\\Models\\TaxCalculationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T16:09:19.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaxCalculationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Models\\TaxCalculationRequest.cs",
+              "RelativeDocumentMoniker": "MyOnlineCv\\Models\\TaxCalculationRequest.cs",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Models\\TaxCalculationRequest.cs",
+              "RelativeToolTip": "MyOnlineCv\\Models\\TaxCalculationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T16:10:39.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EducationItem.cs",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Models\\EducationItem.cs",
+              "RelativeDocumentMoniker": "MyOnlineCv\\Models\\EducationItem.cs",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Models\\EducationItem.cs",
+              "RelativeToolTip": "MyOnlineCv\\Models\\EducationItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T16:13:10.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GalleryItem.cs",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Models\\GalleryItem.cs",
+              "RelativeDocumentMoniker": "MyOnlineCv\\Models\\GalleryItem.cs",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Models\\GalleryItem.cs",
+              "RelativeToolTip": "MyOnlineCv\\Models\\GalleryItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T16:39:57.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SkillItem.cs",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Models\\SkillItem.cs",
+              "RelativeDocumentMoniker": "MyOnlineCv\\Models\\SkillItem.cs",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Models\\SkillItem.cs",
+              "RelativeToolTip": "MyOnlineCv\\Models\\SkillItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T16:11:39.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExperienceItem.cs",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Models\\ExperienceItem.cs",
+              "RelativeDocumentMoniker": "MyOnlineCv\\Models\\ExperienceItem.cs",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Models\\ExperienceItem.cs",
+              "RelativeToolTip": "MyOnlineCv\\Models\\ExperienceItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T16:12:26.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Gallery.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Pages\\Gallery.cshtml.cs",
+              "RelativeDocumentMoniker": "MyOnlineCv\\Pages\\Gallery.cshtml.cs",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Pages\\Gallery.cshtml.cs",
+              "RelativeToolTip": "MyOnlineCv\\Pages\\Gallery.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T15:41:12.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MyOnlineCv.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\obj\\Debug\\net8.0\\MyOnlineCv.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "MyOnlineCv\\obj\\Debug\\net8.0\\MyOnlineCv.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\obj\\Debug\\net8.0\\MyOnlineCv.AssemblyInfo.cs",
+              "RelativeToolTip": "MyOnlineCv\\obj\\Debug\\net8.0\\MyOnlineCv.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T19:01:08.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TaxCalculator.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Pages\\TaxCalculator.cshtml.cs",
+              "RelativeDocumentMoniker": "MyOnlineCv\\Pages\\TaxCalculator.cshtml.cs",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Pages\\TaxCalculator.cshtml.cs",
+              "RelativeToolTip": "MyOnlineCv\\Pages\\TaxCalculator.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T16:44:19.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Gallery.cshtml",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Pages\\Gallery.cshtml",
+              "RelativeDocumentMoniker": "MyOnlineCv\\Pages\\Gallery.cshtml",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Pages\\Gallery.cshtml",
+              "RelativeToolTip": "MyOnlineCv\\Pages\\Gallery.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-02T15:40:15.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyOnlineCv\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyOnlineCv\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAD4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-10T16:41:43.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Education.cshtml",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Pages\\Education.cshtml",
+              "RelativeDocumentMoniker": "MyOnlineCv\\Pages\\Education.cshtml",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Pages\\Education.cshtml",
+              "RelativeToolTip": "MyOnlineCv\\Pages\\Education.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-10T16:36:13.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TaxCalculator.cshtml",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Pages\\TaxCalculator.cshtml",
+              "RelativeDocumentMoniker": "MyOnlineCv\\Pages\\TaxCalculator.cshtml",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Pages\\TaxCalculator.cshtml",
+              "RelativeToolTip": "MyOnlineCv\\Pages\\TaxCalculator.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-10T16:37:39.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MyOnlineCv.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\obj\\Release\\net8.0\\MyOnlineCv.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "MyOnlineCv\\obj\\Release\\net8.0\\MyOnlineCv.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\obj\\Release\\net8.0\\MyOnlineCv.AssemblyInfo.cs",
+              "RelativeToolTip": "MyOnlineCv\\obj\\Release\\net8.0\\MyOnlineCv.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T19:01:20.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FlexiData.WebApi.GlobalUsings.g.cs",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\backend\\FlexiData.Domain\\FlexiData.WebApi\\obj\\Debug\\net10.0\\FlexiData.WebApi.GlobalUsings.g.cs",
+              "RelativeDocumentMoniker": "..\\..\\backend\\FlexiData.Domain\\FlexiData.WebApi\\obj\\Debug\\net10.0\\FlexiData.WebApi.GlobalUsings.g.cs",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\backend\\FlexiData.Domain\\FlexiData.WebApi\\obj\\Debug\\net10.0\\FlexiData.WebApi.GlobalUsings.g.cs",
+              "RelativeToolTip": "..\\..\\backend\\FlexiData.Domain\\FlexiData.WebApi\\obj\\Debug\\net10.0\\FlexiData.WebApi.GlobalUsings.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T19:00:58.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FlexiData.Domain.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\backend\\FlexiData.Domain\\FlexiData.Domain\\obj\\Debug\\net10.0\\FlexiData.Domain.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "..\\..\\backend\\FlexiData.Domain\\FlexiData.Domain\\obj\\Debug\\net10.0\\FlexiData.Domain.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\backend\\FlexiData.Domain\\FlexiData.Domain\\obj\\Debug\\net10.0\\FlexiData.Domain.AssemblyInfo.cs",
+              "RelativeToolTip": "..\\..\\backend\\FlexiData.Domain\\FlexiData.Domain\\obj\\Debug\\net10.0\\FlexiData.Domain.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T19:00:51.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": ".NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\backend\\FlexiData.Domain\\FlexiData.Domain\\obj\\Debug\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "..\\..\\backend\\FlexiData.Domain\\FlexiData.Domain\\obj\\Debug\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\backend\\FlexiData.Domain\\FlexiData.Domain\\obj\\Debug\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "..\\..\\backend\\FlexiData.Domain\\FlexiData.Domain\\obj\\Debug\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T19:00:49.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\backend\\FlexiData.Domain\\FlexiData.Domain\\Entities\\Transaction.cs",
+              "RelativeDocumentMoniker": "..\\..\\backend\\FlexiData.Domain\\FlexiData.Domain\\Entities\\Transaction.cs",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\backend\\FlexiData.Domain\\FlexiData.Domain\\Entities\\Transaction.cs",
+              "RelativeToolTip": "..\\..\\backend\\FlexiData.Domain\\FlexiData.Domain\\Entities\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T19:00:45.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SubscriptionPlan.cs",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\backend\\FlexiData.Domain\\FlexiData.Domain\\Entities\\SubscriptionPlan.cs",
+              "RelativeDocumentMoniker": "..\\..\\backend\\FlexiData.Domain\\FlexiData.Domain\\Entities\\SubscriptionPlan.cs",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\backend\\FlexiData.Domain\\FlexiData.Domain\\Entities\\SubscriptionPlan.cs",
+              "RelativeToolTip": "..\\..\\backend\\FlexiData.Domain\\FlexiData.Domain\\Entities\\SubscriptionPlan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T19:00:41.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProviderGateway.cs",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\backend\\FlexiData.Domain\\FlexiData.Domain\\Entities\\ProviderGateway.cs",
+              "RelativeDocumentMoniker": "..\\..\\backend\\FlexiData.Domain\\FlexiData.Domain\\Entities\\ProviderGateway.cs",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\backend\\FlexiData.Domain\\FlexiData.Domain\\Entities\\ProviderGateway.cs",
+              "RelativeToolTip": "..\\..\\backend\\FlexiData.Domain\\FlexiData.Domain\\Entities\\ProviderGateway.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T19:00:31.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Experience.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Pages\\Experience.cshtml.cs",
+              "RelativeDocumentMoniker": "MyOnlineCv\\Pages\\Experience.cshtml.cs",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Pages\\Experience.cshtml.cs",
+              "RelativeToolTip": "MyOnlineCv\\Pages\\Experience.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T16:51:47.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Experience.cshtml",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Pages\\Experience.cshtml",
+              "RelativeDocumentMoniker": "MyOnlineCv\\Pages\\Experience.cshtml",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Pages\\Experience.cshtml",
+              "RelativeToolTip": "MyOnlineCv\\Pages\\Experience.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-10T16:38:09.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Education.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Pages\\Education.cshtml.cs",
+              "RelativeDocumentMoniker": "MyOnlineCv\\Pages\\Education.cshtml.cs",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Pages\\Education.cshtml.cs",
+              "RelativeToolTip": "MyOnlineCv\\Pages\\Education.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T17:07:04.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MyOnlineCv\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "MyOnlineCv\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-10T18:17:35.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MyOnlineCv.RazorAssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\obj\\Release\\net8.0\\MyOnlineCv.RazorAssemblyInfo.cs",
+              "RelativeDocumentMoniker": "MyOnlineCv\\obj\\Release\\net8.0\\MyOnlineCv.RazorAssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\obj\\Release\\net8.0\\MyOnlineCv.RazorAssemblyInfo.cs",
+              "RelativeToolTip": "MyOnlineCv\\obj\\Release\\net8.0\\MyOnlineCv.RazorAssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T18:17:15.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyOnlineCv\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Pages\\Index.cshtml",
+              "RelativeToolTip": "MyOnlineCv\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-10T17:00:19.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Skills.cshtml",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Pages\\Skills.cshtml",
+              "RelativeDocumentMoniker": "MyOnlineCv\\Pages\\Skills.cshtml",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Pages\\Skills.cshtml",
+              "RelativeToolTip": "MyOnlineCv\\Pages\\Skills.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswCgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-10T16:37:01.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IndexModel.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Pages\\IndexModel.cshtml.cs",
+              "RelativeDocumentMoniker": "MyOnlineCv\\Pages\\IndexModel.cshtml.cs",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Pages\\IndexModel.cshtml.cs",
+              "RelativeToolTip": "MyOnlineCv\\Pages\\IndexModel.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T17:00:49.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Skills.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Pages\\Skills.cshtml.cs",
+              "RelativeDocumentMoniker": "MyOnlineCv\\Pages\\Skills.cshtml.cs",
+              "ToolTip": "C:\\Users\\MY LAPTOP\\source\\repos\\Gatherly-Application\\SecondContactSession\\MyOnlineCv\\MyOnlineCv\\Pages\\Skills.cshtml.cs",
+              "RelativeToolTip": "MyOnlineCv\\Pages\\Skills.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T16:56:35.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+[
+  {
+    "ContainingType": "MyOnlineCv.Controllers.CvApiController",
+    "Method": "CalculateTax",
+    "RelativePath": "api/CvApi/calculate-tax",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "MyOnlineCv.Models.TaxCalculationRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyOnlineCv.Controllers.CvApiController",
+    "Method": "GetEducation",
+    "RelativePath": "api/CvApi/education",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyOnlineCv.Controllers.CvApiController",
+    "Method": "AddEducation",
+    "RelativePath": "api/CvApi/education",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "item",
+        "Type": "MyOnlineCv.Models.EducationItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyOnlineCv.Controllers.CvApiController",
+    "Method": "GetExperience",
+    "RelativePath": "api/CvApi/experience",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyOnlineCv.Controllers.CvApiController",
+    "Method": "AddExperience",
+    "RelativePath": "api/CvApi/experience",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "item",
+        "Type": "MyOnlineCv.Models.ExperienceItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyOnlineCv.Controllers.CvApiController",
+    "Method": "GetSkills",
+    "RelativePath": "api/CvApi/skills",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyOnlineCv.Controllers.CvApiController",
+    "Method": "AddSkill",
+    "RelativePath": "api/CvApi/skills",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "item",
+        "Type": "MyOnlineCv.Models.SkillItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyOnlineCv.Controllers.CvApiController",
+    "Method": "GetTaxHistory",
+    "RelativePath": "api/CvApi/tax-history",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyOnlineCv.Controllers.GalleryApiController",
+    "Method": "GetGalleryItems",
+    "RelativePath": "api/GalleryApi/items",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyOnlineCv.Controllers.GalleryApiController",
+    "Method": "UploadImage",
+    "RelativePath": "api/GalleryApi/upload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Title",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "File",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
