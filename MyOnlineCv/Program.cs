@@ -1,5 +1,5 @@
-using MyOnlineCv.Data;
 using Microsoft.EntityFrameworkCore;
+using MyOnlineCv.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -7,10 +7,20 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorPages();
 builder.Services.AddControllers();
 
-// Configure Database Connection
-var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
-builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseSqlServer(connectionString));
+// Configure Database Connection:
+// Use In-Memory DB for local development to bypass Azure SQL IP Firewall restrictions,
+// and use Azure SQL Server in Production.
+if (builder.Environment.IsDevelopment())
+{
+    builder.Services.AddDbContext<ApplicationDbContext>(options =>
+        options.UseInMemoryDatabase("OnlineCvDb"));
+}
+else
+{
+    var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+    builder.Services.AddDbContext<ApplicationDbContext>(options =>
+        options.UseSqlServer(connectionString));
+}
 
 // Add Swagger Documentation Services
 builder.Services.AddEndpointsApiExplorer();
@@ -46,19 +56,22 @@ app.UseAuthorization();
 app.MapRazorPages();
 app.MapControllers();
 
-// Ensure Database & Tables are created automatically on Azure SQL Startup
-using (var scope = app.Services.CreateScope())
+// Ensure Database & Tables are created automatically in Azure SQL Startup
+if (!app.Environment.IsDevelopment())
 {
-    var services = scope.ServiceProvider;
-    try
+    using (var scope = app.Services.CreateScope())
     {
-        var dbContext = services.GetRequiredService<ApplicationDbContext>();
-        dbContext.Database.EnsureCreated(); // Auto-creates tables in Azure SQL if missing
-    }
-    catch (Exception ex)
-    {
-        var logger = services.GetRequiredService<ILogger<Program>>();
-        logger.LogError(ex, "An error occurred while connecting or creating the Azure SQL Database.");
+        var services = scope.ServiceProvider;
+        try
+        {
+            var dbContext = services.GetRequiredService<ApplicationDbContext>();
+            dbContext.Database.EnsureCreated(); // Auto-creates tables in Azure SQL if missing
+        }
+        catch (Exception ex)
+        {
+            var logger = services.GetRequiredService<ILogger<Program>>();
+            logger.LogError(ex, "An error occurred while connecting or creating the Azure SQL Database.");
+        }
     }
 }
 
